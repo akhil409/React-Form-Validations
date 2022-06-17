@@ -111,6 +111,7 @@ const Validations = () => {
            <p >{formError.passwordconfirm}</p>
 
            <button type="submit" className="form-control btn btn-primary">Submit</button>
+           <button>Reset</button>
        </div>
      </form>
 </div>
