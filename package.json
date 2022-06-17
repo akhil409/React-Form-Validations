@@ -2,7 +2,7 @@
   "name": "react-form-validations",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://akhil409.github.io/React-Form-Validations",
+  "homepage": "https://akhil409.github.io/React-Form-Validations",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -18,8 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
