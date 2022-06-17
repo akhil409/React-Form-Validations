@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-Form-Validations/static/css/main.a2b36820.css",
-    "main.js": "/React-Form-Validations/static/js/main.3d676163.js",
+    "main.js": "/React-Form-Validations/static/js/main.6d299ffe.js",
     "static/js/787.919b5226.chunk.js": "/React-Form-Validations/static/js/787.919b5226.chunk.js",
     "static/media/logo.svg": "/React-Form-Validations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Form-Validations/index.html",
     "main.a2b36820.css.map": "/React-Form-Validations/static/css/main.a2b36820.css.map",
-    "main.3d676163.js.map": "/React-Form-Validations/static/js/main.3d676163.js.map",
+    "main.6d299ffe.js.map": "/React-Form-Validations/static/js/main.6d299ffe.js.map",
     "787.919b5226.chunk.js.map": "/React-Form-Validations/static/js/787.919b5226.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2b36820.css",
-    "static/js/main.3d676163.js"
+    "static/js/main.6d299ffe.js"
   ]
 }
