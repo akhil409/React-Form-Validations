@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akhil409/React-Form-Validations.git/static/css/main.a2b36820.css",
+    "main.js": "/akhil409/React-Form-Validations.git/static/js/main.e964b4f7.js",
+    "static/js/787.919b5226.chunk.js": "/akhil409/React-Form-Validations.git/static/js/787.919b5226.chunk.js",
+    "static/media/logo.svg": "/akhil409/React-Form-Validations.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/akhil409/React-Form-Validations.git/index.html",
+    "main.a2b36820.css.map": "/akhil409/React-Form-Validations.git/static/css/main.a2b36820.css.map",
+    "main.e964b4f7.js.map": "/akhil409/React-Form-Validations.git/static/js/main.e964b4f7.js.map",
+    "787.919b5226.chunk.js.map": "/akhil409/React-Form-Validations.git/static/js/787.919b5226.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b36820.css",
+    "static/js/main.e964b4f7.js"
+  ]
+}
